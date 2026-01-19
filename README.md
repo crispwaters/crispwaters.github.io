@@ -4,7 +4,14 @@ Personal site for [Chris Waters](https://waters.it.com), hosted on GitHub Pages.
 
 # Tech Stack
 
-This project utilizes `svelte` and `sveltekit` with `@sveltejs/adapter-static` to compile the site.
+Static Site Generation:  
+-`svelte`  
+-`svelktekit`  
+-`@sveltejs/adapter-static`
+
+UI Components:  
+-`tailwindcss`  
+-`skeleton`  
 
 # Credits
 
